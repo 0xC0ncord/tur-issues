@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: An unexpected problem occurs. This report is for detailing the problem and providing clues as to help fix it.
-title: "[BUG] ** PLACE TITLE HERE **"
+title: "*** PLACE TITLE HERE ***"
 labels: bug
 assignees: Kokoro-Concord
 
