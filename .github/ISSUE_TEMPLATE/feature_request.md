@@ -1,9 +1,10 @@
 ---
-title: 'Feature Request'
-name: 'Feature Request'
-about: 'Something should be added or changed.'
+name: Feature Request
+about: Something should be added or changed.
+title: Feature Request
 labels: enhancement
 assignees: Kokoro-Concord
+
 ---
 
 <!--- Please provide a brief but meaningful summary of the feature in the Title above -->
