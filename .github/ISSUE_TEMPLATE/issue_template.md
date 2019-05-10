@@ -1,5 +1,7 @@
 ---
 title: 'Bug Report'
+name: 'Bug Report'
+about: 'Something isn't right.'
 labels: bug
 assignees: Kokoro-Concord
 ---
@@ -30,6 +32,8 @@ assignees: Kokoro-Concord
 
 ---
 title: 'Feature Request'
+name: 'Feature Request'
+about: 'Something should be added or changed.'
 labels: enhancement
 assignees: Kokoro-Concord
 ---
