@@ -1,7 +1,7 @@
 ---
 name: Feature Request
-about: Something should be added or changed.
-title: Feature Request
+about: Something should be added or changed. This report is for making suggestions or requests for new changes or additions.
+title: "[FEATURE REQUEST] ** PLACE TITLE HERE **"
 labels: enhancement
 assignees: Kokoro-Concord
 

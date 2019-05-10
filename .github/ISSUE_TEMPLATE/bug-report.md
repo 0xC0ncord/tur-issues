@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-about: Something isn't right.
-title: "[BUG] *** PLACE TITLE HERE ***"
+about: An unexpected problem occurs. This report is for detailing the problem and providing clues as to help fix it.
+title: "[BUG] ** PLACE TITLE HERE **"
 labels: bug
 assignees: Kokoro-Concord
 
@@ -26,7 +26,7 @@ assignees: Kokoro-Concord
 <!--- Please explain what *actually* happens when the bug occurs -->
 
 ## Additional Information
-<!--- If you are able to, please provide additional information about the bug and attach any supporting documents or materials such as crash logs or       screenshots -->
+<!--- If you are able to, please provide additional information about the bug and attach any supporting documents or materials such as crash logs or screenshots -->
 
 ## Possible Solution
 <!--- This is not required, but if you have any idea how to fix the bug, please give your best guess on how the bug can or should be fixed -->
