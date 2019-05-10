@@ -29,22 +29,3 @@ assignees: Kokoro-Concord
 
 ## Possible Solution
 <!--- This is not required, but if you have any idea how to fix the bug, please give your best guess on how the bug can or should be fixed -->
-
----
-title: 'Feature Request'
-name: 'Feature Request'
-about: 'Something should be added or changed.'
-labels: enhancement
-assignees: Kokoro-Concord
----
-
-<!--- Please provide a brief but meaningful summary of the feature in the Title above -->
-
-## Summary
-<!--- Please give a brief summary about the new feature and why you think it is necessary -->
-
-## Feature Description
-<!--- Explain in as much detail as possible about the feature and how you think it should be implemented -->
-
-## Additional Information
-<!--- If you are able to, please provide additional resources to supplement your new feature to include artwork, screenshots, etc. -->
